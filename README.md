@@ -1,0 +1,1 @@
+This is Daniel Tripp's first git project!
